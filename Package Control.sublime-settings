@@ -1,0 +1,23 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Babel",
+		"Better CoffeeScript",
+		"CoffeeCompile",
+		"ColorPicker",
+		"GoSublime",
+		"Markdown Extended",
+		"Materialize",
+		"Package Control",
+		"Predawn",
+		"Predawn Monokai",
+		"Pretty JSON",
+		"Sass",
+		"SublimeLinter",
+		"SublimeLinter-contrib-eslint"
+	]
+}
